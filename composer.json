@@ -1,0 +1,17 @@
+{
+    "name": "chainstrument/php-usecase-sso",
+    "autoload": {
+        "psr-4": {
+            "Cloukili\\PhpUsecaseSso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chainstrument",
+            "email": "chainstrument@gmail.com"
+        }
+    ],
+    "require": {
+        "jasny/sso": "^0.4.2"
+    }
+}
